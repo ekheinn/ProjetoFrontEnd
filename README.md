@@ -1,2 +1,2 @@
-# Projeto FrontEnd
-Conjunto de ideias, repositorio focado em testes pessoais.
+# 📝 Projeto FrontEnd
+Conjunto de ideias, repositório  focado em testes pessoais.
