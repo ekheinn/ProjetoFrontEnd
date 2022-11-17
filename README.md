@@ -1,2 +1,2 @@
 # ProjetoFrontEnd
-Conjunto de ideias
+Conjunto de ideias, repositorio focado em testes pessoais.
